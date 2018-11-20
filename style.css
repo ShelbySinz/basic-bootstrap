@@ -22,11 +22,14 @@
 
 .background {
     background-image:url(../Basic-Portfolio/assets/images/circuit.png);
+   padding-bottom: 100px;
+
 }
+
 
 .one {
     background-color:white;
-    padding-bottom: 20px;
+    padding-bottom: 50px;
 }
 
 #paragraph {
