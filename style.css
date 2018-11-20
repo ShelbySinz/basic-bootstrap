@@ -1,0 +1,34 @@
+.card-img-top {
+    height:200px;
+    width:250px;
+
+}
+
+.bioimg {
+    height:200px;
+    width:200px;
+}
+
+#port {
+    
+
+}
+
+.card-footer {
+    text-align: center;
+    font-size: 8px;
+}
+
+
+.background {
+    background-image:url(../Basic-Portfolio/assets/images/circuit.png);
+}
+
+.one {
+    background-color:white;
+    padding-bottom: 20px;
+}
+
+#paragraph {
+    color:darkcyan
+}
